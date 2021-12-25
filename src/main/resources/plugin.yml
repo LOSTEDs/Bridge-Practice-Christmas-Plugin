@@ -1,0 +1,11 @@
+name: ChristmasEdition
+version: 1.0
+main: net.bridgepractice.christmasedition.ChristmasEdition
+api-version: 1.8.8
+author: LOSTED
+description: Christmas Edition Plugin for Bridge Practice
+website: bridgepractice.net
+commands:
+  particleenable:
+    description: 6969696969696969696969696969420
+    usage: /69420
